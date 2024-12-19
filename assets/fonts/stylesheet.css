@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'TT Bells';
+    src: url('TTBells-LightItalic.woff2') format('woff2'),
+        url('TTBells-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Bells';
+    src: url('TTBells-Italic.woff2') format('woff2'),
+        url('TTBells-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Bells';
+    src: url('TTBells-Light.woff2') format('woff2'),
+        url('TTBells-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Drugs';
+    src: url('TTDrugs-BoldItalic.woff2') format('woff2'),
+        url('TTDrugs-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Bells';
+    src: url('TTBells-Thin.woff2') format('woff2'),
+        url('TTBells-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Drugs';
+    src: url('TTDrugs-Thin.woff2') format('woff2'),
+        url('TTDrugs-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Drugs';
+    src: url('TTDrugs-Bold.woff2') format('woff2'),
+        url('TTDrugs-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Bells';
+    src: url('TTBells-Regular.woff2') format('woff2'),
+        url('TTBells-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Drugs';
+    src: url('TTDrugs-Light.woff2') format('woff2'),
+        url('TTDrugs-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Drugs';
+    src: url('TTDrugs-ThinItalic.woff2') format('woff2'),
+        url('TTDrugs-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Bells';
+    src: url('TTBells-BoldItalic.woff2') format('woff2'),
+        url('TTBells-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Drugs';
+    src: url('TTDrugs-Black.woff2') format('woff2'),
+        url('TTDrugs-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Bells';
+    src: url('TTBells-Bold.woff2') format('woff2'),
+        url('TTBells-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Drugs';
+    src: url('TTDrugs-BlackItalic.woff2') format('woff2'),
+        url('TTDrugs-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Drugs';
+    src: url('TTDrugs-Italic.woff2') format('woff2'),
+        url('TTDrugs-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Bells';
+    src: url('TTBells-ThinItalic.woff2') format('woff2'),
+        url('TTBells-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Bells';
+    src: url('TTBells-BlackItalic.woff2') format('woff2'),
+        url('TTBells-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Bells';
+    src: url('TTBells-Black.woff2') format('woff2'),
+        url('TTBells-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Drugs';
+    src: url('TTDrugs-Regular.woff2') format('woff2'),
+        url('TTDrugs-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TT Drugs';
+    src: url('TTDrugs-LightItalic.woff2') format('woff2'),
+        url('TTDrugs-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
