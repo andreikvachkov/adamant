@@ -257,6 +257,7 @@ header {
     right: -30.6875rem;
     bottom: -17.5rem;
     animation: rotate 15s linear infinite;
+    mix-blend-mode: soft-light;
 }
 @keyframes rotate {
     from {
